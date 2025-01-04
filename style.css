@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f4ef; /* Neutral, nude background */
+    color: #4a4a4a; /* Soft dark grey for text */
+    text-align: center;
+}
+header {
+    background-color: #d3bfb2; /* Soft beige for header */
+    color: white;
+    padding: 20px 0;
+}
+section {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #fff; /* White for sections */
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+footer {
+    background-color: #d3bfb2; /* Matching footer color */
+    color: white;
+    padding: 10px 0;
+}
+input, button {
+    padding: 10px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+button {
+    background-color: #b89f91; /* Soft nude button */
+    color: white;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #a78c7a; /* Slightly darker nude on hover */
+}
